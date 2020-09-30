@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7ebf41e4-c427-43ad-9ce2-113d7452a8d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Future/future object.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Future/future object dot then.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,39 +57,39 @@
       <recent name="E:\Dart Programming Code\Future" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.reduce time for many function.dart">
-    <configuration name="directory.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/file/directory.dart" />
+  <component name="RunManager" selected="Dart Command Line App.os.dart">
+    <configuration name="create directory.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/file/create directory.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="future object async await.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Future/future object async await.dart" />
+    <configuration name="delete directory.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/file/delete directory.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="future object dot then.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Future/future object dot then.dart" />
+    <configuration name="file listener.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/file/file listener.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="reduce time for many function.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Future/reduce time for many function.dart" />
+    <configuration name="os.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/file/os.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="temp dir.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/file/temp dir.dart" />
+    <configuration name="read and write file.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/file/read and write file.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.reduce time for many function.dart" />
-        <item itemvalue="Dart Command Line App.future object async await.dart" />
-        <item itemvalue="Dart Command Line App.future object dot then.dart" />
-        <item itemvalue="Dart Command Line App.temp dir.dart" />
-        <item itemvalue="Dart Command Line App.directory.dart" />
+        <item itemvalue="Dart Command Line App.os.dart" />
+        <item itemvalue="Dart Command Line App.read and write file.dart" />
+        <item itemvalue="Dart Command Line App.file listener.dart" />
+        <item itemvalue="Dart Command Line App.delete directory.dart" />
+        <item itemvalue="Dart Command Line App.create directory.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +117,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="65" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601436762038">
@@ -128,22 +128,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600841428478" />
-    <state width="987" height="178" key="GridCell.Tab.0.bottom" timestamp="1601440187548">
+    <state width="843" height="219" key="GridCell.Tab.0.bottom" timestamp="1601466825357">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="987" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601440187548" />
-    <state width="987" height="178" key="GridCell.Tab.0.center" timestamp="1601440187547">
+    <state width="843" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601466825357" />
+    <state width="843" height="219" key="GridCell.Tab.0.center" timestamp="1601466825357">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="987" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601440187547" />
-    <state width="987" height="178" key="GridCell.Tab.0.left" timestamp="1601440187547">
+    <state width="843" height="219" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601466825357" />
+    <state width="843" height="219" key="GridCell.Tab.0.left" timestamp="1601466825357">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="987" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601440187547" />
-    <state width="987" height="178" key="GridCell.Tab.0.right" timestamp="1601440187547">
+    <state width="843" height="219" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601466825357" />
+    <state width="843" height="219" key="GridCell.Tab.0.right" timestamp="1601466825357">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="987" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601440187547" />
+    <state width="843" height="219" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601466825357" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1601434897094">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
