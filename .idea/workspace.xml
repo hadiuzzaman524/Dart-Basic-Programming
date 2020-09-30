@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7ebf41e4-c427-43ad-9ce2-113d7452a8d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Future/future object.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Future/future object dot then.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,24 +53,29 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.future object.dart">
-    <configuration name="abstract class.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/abstract class.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Dart Programming Code\Future" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.reduce time for many function.dart">
     <configuration name="directory.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/file/directory.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="future object.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Future/future object.dart" />
+    <configuration name="future object async await.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Future/future object async await.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="interface.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/interface.dart" />
+    <configuration name="future object dot then.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Future/future object dot then.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reduce time for many function.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Future/reduce time for many function.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -62,14 +86,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.future object.dart" />
+        <item itemvalue="Dart Command Line App.reduce time for many function.dart" />
+        <item itemvalue="Dart Command Line App.future object async await.dart" />
+        <item itemvalue="Dart Command Line App.future object dot then.dart" />
         <item itemvalue="Dart Command Line App.temp dir.dart" />
         <item itemvalue="Dart Command Line App.directory.dart" />
-        <item itemvalue="Dart Command Line App.interface.dart" />
-        <item itemvalue="Dart Command Line App.abstract class.dart" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -83,6 +108,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="65" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601436762038">
       <screen x="0" y="0" width="1536" height="824" />
@@ -92,22 +128,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600841428478" />
-    <state width="1515" height="230" key="GridCell.Tab.0.bottom" timestamp="1601437136192">
+    <state width="987" height="178" key="GridCell.Tab.0.bottom" timestamp="1601440187548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601437136192" />
-    <state width="1515" height="230" key="GridCell.Tab.0.center" timestamp="1601437136191">
+    <state width="987" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601440187548" />
+    <state width="987" height="178" key="GridCell.Tab.0.center" timestamp="1601440187547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="230" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601437136191" />
-    <state width="1515" height="230" key="GridCell.Tab.0.left" timestamp="1601437136191">
+    <state width="987" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601440187547" />
+    <state width="987" height="178" key="GridCell.Tab.0.left" timestamp="1601440187547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="230" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601437136191" />
-    <state width="1515" height="230" key="GridCell.Tab.0.right" timestamp="1601437136192">
+    <state width="987" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601440187547" />
+    <state width="987" height="178" key="GridCell.Tab.0.right" timestamp="1601440187547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="230" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601437136192" />
+    <state width="987" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601440187547" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1601434897094">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

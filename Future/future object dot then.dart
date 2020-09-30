@@ -23,6 +23,6 @@ Future.delayed(Duration(second: 3), সার্ভার রিকুয়েস�
 ডাটা নিয়ে ফেরত আসতে পারবে...
  */
   return Future.delayed(Duration(seconds: 3),(){ // inner function
-    return "request return"; // return result of future;
+    return "Data fetched"; // return result of future;
   });
 }
