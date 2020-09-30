@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ebf41e4-c427-43ad-9ce2-113d7452a8d7" name="Default Changelist" comment="" />
+    <list default="true" id="7ebf41e4-c427-43ad-9ce2-113d7452a8d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hjKqsIb5Uan4WyqIzIispRnKj7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,40 +31,42 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.exception handling.dart">
-    <configuration name="class.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/class.dart" />
+  <component name="RunManager" selected="Dart Command Line App.future object.dart">
+    <configuration name="abstract class.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/abstract class.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="exception handling.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/exception handling.dart" />
+    <configuration name="directory.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/file/directory.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="final and static keyword within the class.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/final and static keyword within the class.dart" />
+    <configuration name="future object.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/Future/future object.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="inheretance.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/inheretance.dart" />
+    <configuration name="interface.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/interface.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="ovrriding.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/ovrriding.dart" />
+    <configuration name="temp dir.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/file/temp dir.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.exception handling.dart" />
-        <item itemvalue="Dart Command Line App.ovrriding.dart" />
-        <item itemvalue="Dart Command Line App.inheretance.dart" />
-        <item itemvalue="Dart Command Line App.final and static keyword within the class.dart" />
-        <item itemvalue="Dart Command Line App.class.dart" />
+        <item itemvalue="Dart Command Line App.future object.dart" />
+        <item itemvalue="Dart Command Line App.temp dir.dart" />
+        <item itemvalue="Dart Command Line App.directory.dart" />
+        <item itemvalue="Dart Command Line App.interface.dart" />
+        <item itemvalue="Dart Command Line App.abstract class.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -74,22 +84,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="226" key="GridCell.Tab.0.bottom" timestamp="1600753131812">
+    <state x="65" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601436762038">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="226" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600753131812" />
-    <state width="1515" height="226" key="GridCell.Tab.0.center" timestamp="1600753131811">
+    <state x="65" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1601436762038" />
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1600841428478">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="226" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600753131811" />
-    <state width="1515" height="226" key="GridCell.Tab.0.left" timestamp="1600753131811">
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600841428478" />
+    <state width="1515" height="230" key="GridCell.Tab.0.bottom" timestamp="1601437136192">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="226" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600753131811" />
-    <state width="1515" height="226" key="GridCell.Tab.0.right" timestamp="1600753131811">
+    <state width="1515" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601437136192" />
+    <state width="1515" height="230" key="GridCell.Tab.0.center" timestamp="1601437136191">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="226" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600753131811" />
+    <state width="1515" height="230" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601437136191" />
+    <state width="1515" height="230" key="GridCell.Tab.0.left" timestamp="1601437136191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="230" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601437136191" />
+    <state width="1515" height="230" key="GridCell.Tab.0.right" timestamp="1601437136192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="230" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601437136192" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1601434897094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601434897094" />
     <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600523827749">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
