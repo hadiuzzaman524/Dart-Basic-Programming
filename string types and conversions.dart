@@ -50,7 +50,6 @@ Country so much''';
   print(str);
 
   // convert specific length of data
-
   String pi=3.1416.toStringAsFixed(2);
   print(pi); // print 2 decimal point
 

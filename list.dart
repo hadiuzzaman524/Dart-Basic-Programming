@@ -1,6 +1,14 @@
 
 void main(){
   // list
+ //example of fixed length list....
+  List list=new List(3);
+  list[0]=11;
+  list[1]=12;
+  list[2]=13;
+  list.forEach((element) {print(element);
+  });
+
 
   List names=['jaman','habib','rakib'];
 
