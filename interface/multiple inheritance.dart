@@ -33,7 +33,7 @@ class Human implements Person,Student{
 
   @override
   void showStd() {
-    // TODO: implement showStd
+    // implement showStd
     print("Human class std");
   }
 
