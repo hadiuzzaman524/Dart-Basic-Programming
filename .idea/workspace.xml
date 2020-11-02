@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7ebf41e4-c427-43ad-9ce2-113d7452a8d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/multiple inheritance.dart" beforeDir="false" afterPath="$PROJECT_DIR$/interface/multiple inheritance.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/list.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +58,19 @@
       <recent name="E:\Dart Programming Code\Future" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.more practics future.dart">
-    <configuration name="future object async await.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Future/future object async await.dart" />
+  <component name="RunManager" selected="Dart Command Line App.list.dart">
+    <configuration name="list.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/list.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="map.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/mixin/map.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mixin.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/mixin/mixin.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -74,23 +84,13 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="multiple inheritance.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/interface/multiple inheritance.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="string types and conversions.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/string types and conversions.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.list.dart" />
+        <item itemvalue="Dart Command Line App.map.dart" />
+        <item itemvalue="Dart Command Line App.mixin.dart" />
         <item itemvalue="Dart Command Line App.more practics future.dart" />
         <item itemvalue="Dart Command Line App.more about future.dart" />
-        <item itemvalue="Dart Command Line App.future object async await.dart" />
-        <item itemvalue="Dart Command Line App.multiple inheritance.dart" />
-        <item itemvalue="Dart Command Line App.string types and conversions.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -129,22 +129,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601478519786" />
-    <state width="1509" height="199" key="GridCell.Tab.0.bottom" timestamp="1602819580745">
+    <state width="1509" height="179" key="GridCell.Tab.0.bottom" timestamp="1604281501233">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602819580745" />
-    <state width="1509" height="199" key="GridCell.Tab.0.center" timestamp="1602819580745">
+    <state width="1509" height="179" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604281501233" />
+    <state width="1509" height="179" key="GridCell.Tab.0.center" timestamp="1604281501232">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="199" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602819580745" />
-    <state width="1509" height="199" key="GridCell.Tab.0.left" timestamp="1602819580745">
+    <state width="1509" height="179" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604281501232" />
+    <state width="1509" height="179" key="GridCell.Tab.0.left" timestamp="1604281501232">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="199" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602819580745" />
-    <state width="1509" height="199" key="GridCell.Tab.0.right" timestamp="1602819580745">
+    <state width="1509" height="179" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604281501232" />
+    <state width="1509" height="179" key="GridCell.Tab.0.right" timestamp="1604281501233">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="199" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602819580745" />
+    <state width="1509" height="179" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604281501233" />
     <state x="295" y="35" key="SettingsEditor" timestamp="1601478463691">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -71,4 +71,9 @@ void main(){
   }
 // it's successfully working...:)
 
+List<String> x=['jaman','habib',
+'rakib','mantu'];
+
+  x.map((e) => print(e));
+
 }
